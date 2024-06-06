@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecd69a96-4e54-442f-bca6-8eee483aff65" name="Changes" comment="Added initial settings">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/LinearDataStructure.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/linked_list/BaseLinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/linked_list/ILinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/linked_list/LinkedList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/linked_list/LinkedListRunner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/linked_list/Node.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/queue/IQueue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/queue/Queue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/queue/QueueRunner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/stack/IStack.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/stack/Stack.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/linear/stack/StackRunner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/Graph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/GraphRunner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/UnweightedEdge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/WeightedEdge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/directed/UnweightedGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/directed/WeightedGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/helper/GraphPrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/helper/UnweightedGraphPrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/helper/WeightedGraphPrinter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/undirected/UnweightedGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ds/non_linear/graph/undirected/WeightedGraph.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/search/Search.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/search/bs/BinarySearch.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2h2gK1pwKkr4hQ3seEhAQox7FAg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "singly-linked-list",
+    "last_opened_file_path": "/Users/aminaome/Documents/DSA/src/main/kotlin/ds",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/ds" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="ds.linear.linked_list.operation" />
+      <recent name="ds.non_linear.graph" />
+      <recent name="ds.non_linear.graph.non_directional" />
+      <recent name="ds.linear" />
+      <recent name="search.bs" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="ds.linear.linked_list.operation" />
+      <recent name="ds.linear.linked_list" />
+      <recent name="ds.non_linear.graph.helper" />
+      <recent name="ds.non_linear.graph.directed" />
+      <recent name="ds.non_linear.graph.non_directional" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.LinkedListRunnerKt">
+    <configuration name="GraphRunnerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.non_linear.graph.GraphRunnerKt" />
+      <module name="DSA.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListRunnerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.linear.linked_list.LinkedListRunnerKt" />
+      <module name="DSA.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="DSA.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueRunnerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ds.queue.QueueRunnerKt" />
+      <module name="DSA.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LinkedListRunnerKt" />
+        <item itemvalue="Kotlin.GraphRunnerKt" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.QueueRunnerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd69a96-4e54-442f-bca6-8eee483aff65" name="Changes" comment="" />
+      <created>1716797522008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716797522008</updated>
+      <workItem from="1716797523119" duration="1493000" />
+      <workItem from="1716799482355" duration="6082000" />
+      <workItem from="1716893823066" duration="12573000" />
+      <workItem from="1717484636997" duration="16854000" />
+      <workItem from="1717560556534" duration="20853000" />
+      <workItem from="1717602415372" duration="3300000" />
+      <workItem from="1717643745617" duration="6085000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added initial settings">
+      <option name="closed" value="true" />
+      <created>1717653256610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717653256610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added initial settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added initial settings" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
